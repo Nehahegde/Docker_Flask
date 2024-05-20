@@ -17,12 +17,6 @@
             "id": 3,
             "name": "Harry",
             "email": "harry@gmail.com"
-        },
-        {
-            "age": 8,
-            "id": 6,
-            "name": "Percy",
-            "email": "percyh@gmail.com"
         }
     ]
 }
